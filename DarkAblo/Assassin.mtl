@@ -1,0 +1,91 @@
+newmtl Std_Skin_Leg
+    Ns 20.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd Assassin/Std_Skin_Leg_diffuse.jpg
+    map_Pm Assassin/Std_Skin_Leg_metallic.jpg
+    map_Pr Assassin/Std_Skin_Leg_roughness.jpg
+newmtl Std_Nails
+    Ns 20.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd Assassin/Std_Nails_diffuse.jpg
+    map_Pm Assassin/Std_Nails_metallic.jpg
+    map_Pr Assassin/Std_Nails_roughness.jpg
+newmtl Ga_Eye
+    Ns 2.000000
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.900000 0.900000 0.900000
+    map_Kd Assassin/Ga_Eye_diffuse.jpg
+    map_Pm Assassin/Ga_Eye_metallic.jpg
+    map_Pr Assassin/Ga_Eye_roughness.jpg
+newmtl Std_Upper_Teeth
+    Ns 2.000000
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.900000 0.900000 0.900000
+    map_Kd Assassin/Std_Upper_Teeth_diffuse.jpg
+    map_Pm Assassin/Std_Upper_Teeth_metallic.jpg
+    map_Pr Assassin/Std_Upper_Teeth_roughness.jpg
+newmtl Std_Eyelash
+    Ns 20.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd Assassin/Std_Eyelash_diffuse.jpg
+    map_D Assassin/Std_Eyelash_opacity.jpg
+    map_Pm Assassin/Std_Eyelash_metallic.jpg
+    map_Pr Assassin/Std_Eyelash_roughness.jpg
+newmtl Std_Lower_Teeth
+    Ns 2.000000
+    d 1.000000
+    Ka 1.000000 1.000000 1.000000
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.900000 0.900000 0.900000
+    map_Kd Assassin/Std_Lower_Teeth_diffuse.jpg
+    map_Pm Assassin/Std_Lower_Teeth_metallic.jpg
+    map_Pr Assassin/Std_Lower_Teeth_roughness.jpg
+newmtl Std_Skin_Head
+    Ns 20.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd Assassin/Std_Skin_Head_diffuse.jpg
+    map_Pm Assassin/Std_Skin_Head_metallic.jpg
+    map_Pr Assassin/Std_Skin_Head_roughness.jpg
+newmtl Std_Skin_Arm
+    Ns 20.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd Assassin/Std_Skin_Arm_diffuse.jpg
+    map_Pm Assassin/Std_Skin_Arm_metallic.jpg
+    map_Pr Assassin/Std_Skin_Arm_roughness.jpg
+newmtl Std_Skin_Body
+    Ns 20.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd Assassin/Std_Skin_Body_diffuse.jpg
+    map_Pm Assassin/Std_Skin_Body_metallic.jpg
+    map_Pr Assassin/Std_Skin_Body_roughness.jpg
+newmtl Std_Tongue
+    Ns 20.000000
+    d 1.000000
+    Ka 0.196078 0.196078 0.196078
+    Kd 1.000000 1.000000 1.000000
+    Ks 0.898039 0.898039 0.898039
+    map_Kd Assassin/Std_Tongue_diffuse.jpg
+    map_Pm Assassin/Std_Tongue_metallic.jpg
+    map_Pr Assassin/Std_Tongue_roughness.jpg
