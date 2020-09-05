@@ -1,0 +1,24 @@
+newmtl RougeArmorBoots_Low:defaultMat
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl RougeArmorChestTwo_Low:defaultMat
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl RougeArmorChest_Low:defaultMat
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl RougeArmorGloves_Low:defaultMat
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
