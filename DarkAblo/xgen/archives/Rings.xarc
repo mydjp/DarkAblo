@@ -1,0 +1,8 @@
+#ArchiveGroup 0 name="Rings" description="No description." thumbnail="Rings.png" materials="${PROJECT}/xgen/archives/materials/Rings.ma" color=[1,0,0]
+0 "${PROJECT}/xgen/archives/abc/Rings.abc" material=Rings:initialShadingGroup objects=|pPipe1
+1 "${PROJECT}/xgen/archives/abc/Rings.abc" material=Rings:initialShadingGroup objects=|pPipe1
+2 "${PROJECT}/xgen/archives/abc/Rings.abc" material=Rings:initialShadingGroup objects=|pPipe1
+3 "${PROJECT}/xgen/archives/ass/Rings__pPipe1.ass.gz" material=Rings:lambert1 objects=|pPipe1
+4 "${PROJECT}/xgen/archives/ass/Rings__pPipe1.ass.gz" material=Rings:lambert1 objects=|pPipe1
+5 "${PROJECT}/xgen/archives/ass/Rings__pPipe1.ass.gz" material=Rings:lambert1 objects=|pPipe1
+

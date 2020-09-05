@@ -1,0 +1,91 @@
+pymel.core : INFO : Updating pymel with pre-loaded plugins: cacheEvaluator, renderSetup
+Warning: file: C:/Program Files/Autodesk/Maya2020/scripts/startup/initialStartup.mel line 179: Y-axis is already the Up-axis
+Warning: file: C:\Users\Daniel\Documents\maya\2020\prefs\filePathEditorRegistryPrefs.mel line 4: filePathEditor: Attribute 'aiImage.filename' is invalid or is not designated 'usedAsFilename'.
+Warning: file: C:\Users\Daniel\Documents\maya\2020\prefs\filePathEditorRegistryPrefs.mel line 5: filePathEditor: Attribute 'aiPhotometricLight.aiFilename' is invalid or is not designated 'usedAsFilename'.
+Warning: file: C:\Users\Daniel\Documents\maya\2020\prefs\filePathEditorRegistryPrefs.mel line 6: filePathEditor: Attribute 'aiStandIn.dso' is invalid or is not designated 'usedAsFilename'.
+Warning: file: C:\Users\Daniel\Documents\maya\2020\prefs\filePathEditorRegistryPrefs.mel line 7: filePathEditor: Attribute 'aiVolume.filename' is invalid or is not designated 'usedAsFilename'.
+AbcExport v1.0 using Alembic 1.7.5 (built Feb  6 2018 18:28:08)
+Initialized VP2.0 renderer {
+  Version : 2016.11.53.12. Feature Level 5.
+  Adapter : GeForce GTX 1080 Ti/PCIe/SSE2
+  Vendor ID: 4318. Device ID : 6918
+  Driver : .
+  API : OpenGL V.4.6.
+  Max texture size : 16384 * 16384.
+  Max tex coords : 32
+  Shader versions supported (Vertex: 5, Geometry: 5, Pixel 5).
+  Shader compiler profile : (Best card profile)
+  Active stereo support available : 0
+  GPU Memory Limit : 11264 MB.
+  CPU Memory Limit: 46642.5 MB.
+  MultiDraw consolidation: enabled
+}
+OpenCL evaluator is attempting to initialize OpenCL.
+Detected 1 OpenCL Platforms: 
+ 0: NVIDIA Corporation. NVIDIA CUDA. OpenCL 1.2 CUDA 11.0.126.
+ Supported extensions: cl_khr_global_int32_base_atomics cl_khr_global_int32_extended_atomics cl_khr_local_int32_base_atomics cl_khr_local_int32_extended_atomics cl_khr_fp64 cl_khr_byte_addressable_store cl_khr_icd cl_khr_gl_sharing cl_nv_compiler_options cl_nv_device_attribute_query cl_nv_pragma_unroll cl_nv_d3d10_sharing cl_khr_d3d10_sharing cl_nv_d3d11_sharing cl_nv_copy_opts cl_nv_create_buffer cl_khr_int64_base_atomics cl_khr_int64_extended_atomics 
+OpenCL evaluator choosing OpenCL platform NVIDIA Corporation.
+OpenCL evaluator is unable to find a GPU device that can share VBOs with OpenGL.
+Warning: file: C:/Program Files/Autodesk/Maya2020/scripts/startup/autoLoadPlugin.mel line 35: Loading plug-in "lookdevKit" has resulted in changes to the scene that may need to be saved.
+Warning: line 1: filePathEditor: Attribute 'aiStandIn.dso' and label 'Standin' have been saved already.
+Warning: line 1: filePathEditor: Attribute 'aiVolume.filename' and label 'VDB' have been saved already.
+00:00:00   600MB WARNING | [mtoa] [<built-in>] [node aov_write_vector] Assigning temporary node id 1138176 to associated Maya type name aiAovWriteVector.
+Warning: line 1: filePathEditor: Attribute 'aiImage.filename' and label 'Image' have been saved already.
+Warning: line 1: filePathEditor: Attribute 'aiPhotometricLight.aiFilename' and label 'IES' have been saved already.
+Successfully imported python module 'arnold'
+Successfully imported python module 'mtoa'
+Successfully registered renderer 'arnold'
+Qt WebEngine seems to be initialized from a plugin. Please set Qt::AA_ShareOpenGLContexts using QCoreApplication::setAttribute before constructing QGuiApplication.
+Loading Bifrost version 2.0.3.0
+Bifrost: Loading library: Amino, from: Autodesk.
+Bifrost: Loading library: AminoMayaTranslation, from: Autodesk.
+Bifrost: Loading library: bif, from: Autodesk.
+Bifrost: Loading library: bifrostObjectMayaTranslations, from: Autodesk.
+Bifrost: Loading library: geometries, from: Autodesk.
+Bifrost: Loading library: fluids, from: Autodesk.
+Bifrost: Loading library: particles, from: Autodesk.
+Bifrost: Loading library: file, from: Autodesk.
+Bifrost: Loading library: midgard, from: Autodesk.
+Bifrost: Loading library: nucleus, from: Autodesk.
+Bifrost: Loading library: simulation, from: Autodesk.
+AbcImport v1.0 using Alembic 1.7.5 (built Feb  6 2018 18:28:08)
+Warning: Plug-in, "AbcExport.mll", is already loaded.  Skipped.
+Warning: Plug-in, "mtoa.mll", is already loaded.  Skipped.
+hlp = xgenm.xmaya.xgmArchiveExport.xgmArchiveExport()
+hlp.processDir( 'Rings', 'C:/Users/Daniel/Documents/GitRepos/DarkAblo/xgen/archives/', ['C:/Users/Daniel/Documents/GitRepos/DarkAblo/scenes/Armor/RingMail.ma'], ['|pPipe1'], 0, '0.0', '0.0', 1.000000, 1.000000 )
+[  0.00%] creating sub directoriesC:/Users/Daniel/Documents/GitRepos/DarkAblo/xgen/archives/
+[  0.00%]  processing file C:/Users/Daniel/Documents/GitRepos/DarkAblo/scenes/Armor/RingMail.ma
+[  0.00%]   processing scene C:/Users/Daniel/Documents/GitRepos/DarkAblo/xgen/archives/Rings
+[  0.00%]    openScene C:/Users/Daniel/Documents/GitRepos/DarkAblo/scenes/Armor/RingMail.ma
+File read in  0.16 seconds.
+Importing XGen Collections...
+Done.
+Error: file: C:/Program Files/Autodesk/Maya2020/plug-ins/xgen/scripts/xgen.mel line 720: AttributeError: file <maya console> line 1: 'NoneType' object has no attribute 'tracking'
+Error: file: C:/Program Files/Autodesk/Maya2020/plug-ins/xgen/scripts/xgen.mel line 683: AttributeError: file <maya console> line 1: 'NoneType' object has no attribute 'tracking'
+[  0.00%]    fixNodeToShapeParent objs - ['|pPipe1']
+[  0.00%]    fixNodeToShapeParent shapeParentObj - ['|pPipe1']
+[ 25.00%]    processScene 1 ['|pPipe1']
+[ 25.00%]    processScene 2 ['|pPipe1']
+[  0.00%]     splitByShadingGroups ['|pPipe1']
+[  0.00%]     getSGsFromObj |pPipe1
+[  0.00%]     getSGsFromObj( |pPipe1 ) returned [u'initialShadingGroup']
+[ 12.50%]    processScene ['|pPipe1']
+[ 12.50%]    before archiveExport ['|pPipe1']
+[  0.00%]     archiveExport alembic object: ['|pPipe1']
+[  0.00%]     abcExport C:/Users/Daniel/Documents/GitRepos/DarkAblo/xgen/archives/abc/Rings.abc
+[  0.00%]     abcExport objects ['|pPipe1']
+[  0.00%]     abcExport select objects [u'|pPipe1|pPipeShape1']
+[  0.00%]     abcExport -selection -uvWrite -frameRange 1.000000 1.000000 -worldSpace -file "C:/Users/Daniel/Documents/GitRepos/DarkAblo/xgen/archives/abc/Rings.abc"
+[  0.00%]     getSGsFromObj |pPipe1
+[ 25.00%]     archiveExport for callbacks
+[  0.00%]      assExport C:/Users/Daniel/Documents/GitRepos/DarkAblo/xgen/archives/ass/Rings
+Warning: [mtoa] No light in scene
+[mtoa] No light in scene
+[  0.00%]      assExport C:/Users/Daniel/Documents/GitRepos/DarkAblo/xgen/archives/ass/Rings__pPipe1.ass.gz
+[  0.00%]      getSGsFromObj |pPipe1
+[ 25.00%]     archiveExport for callbacks finished
+[  8.33%]    before materialExport ['|pPipe1']
+[  8.33%]    materialExport C:/Users/Daniel/Documents/GitRepos/DarkAblo/xgen/archives/materials/Rings.ma
+[  8.33%]    getSGsFromObj |pPipe1
+[100.00%]  done in 0.287 sec C:/Users/Daniel/Documents/GitRepos/DarkAblo/xgen/archives/
+Error: file: C:/Program Files/Autodesk/Maya2020/plug-ins/xgen/scripts/xgen.mel line 971: AttributeError: file <maya console> line 1: 'NoneType' object has no attribute 'deleteAll'
